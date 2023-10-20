@@ -5,8 +5,8 @@ locations:
   SAMPLE:
     mappingDefinitions:
       "5":
-        database: PC_COALESCE_DB
-        schema: TPCH_SF100
+        database: SNOWFLAKE_SAMPLE_DATA
+        schema: TPCH_SF1
   WORK:
     mappingDefinitions:
       "5":
